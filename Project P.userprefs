@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\Scripts\NodeEditor\NodeSaveData.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy\EnemyMovement.cs" Line="23" Column="2" />
+      <File FileName="Assets\Scripts\Core\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\ActorModifier.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\ActorPusher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\CharacterStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\UI\CharacterStatsUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Modifiers\HealthModifier.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\ComboManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Environment\GroundFrictionModifier.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Modifiers\SpeedModifier.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\Dialogue\DialogueTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Core\Dialogue\DialogueManager.cs" Line="7" Column="29" />
+      <File FileName="Assets\Editor\Scripts\NodeEditor\NodeEditor.cs" Line="8" Column="39" />
+      <File FileName="Assets\Editor\Scripts\NodeEditor\ProcessNodeEditorToTrigger.cs" Line="5" Column="47" />
+      <File FileName="Assets\Editor\Scripts\NodeEditor\NodeSaveData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\user\Documents\My Unity Projects\Project P\Assets\Scripts\Editor\ConnectionPoint.cs" line="50" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
